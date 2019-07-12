@@ -27,7 +27,7 @@ Fluxo do cartão de débito
 Solicitação de pagamento
 ------------------------
 
-.. image:: _imagens/fluxo_debito.svg
+.. image:: _imagens/fluxo_debito.png
    :scale: 100 %
    :align: center
    :alt: Fluxo simplificado da solicitação para cartão de débito.
@@ -36,7 +36,7 @@ Solicitação de pagamento
 Verificação de pagamento
 ------------------------
 
-.. image:: _imagens/fluxo_verificacao_debito.svg
+.. image:: _imagens/fluxo_verificacao_debito.png
    :scale: 100 %
    :align: center
    :alt: Fluxo simplificado de verificação de pagamento para cartão de débito.
@@ -52,7 +52,7 @@ Fluxo do boleto bancário
 Solicitação de pagamento
 ------------------------
 
-.. image:: _imagens/fluxo_boleto.svg
+.. image:: _imagens/fluxo_boleto.png
    :scale: 100 %
    :align: center
    :alt: Fluxo simplificado do solicitação para boleto bancário.
@@ -64,7 +64,7 @@ Solicitação de pagamento
 Verificação de pagamento
 ------------------------
 
-.. image:: _imagens/fluxo_verificacao_boleto.svg
+.. image:: _imagens/fluxo_verificacao_boleto.png
   :scale: 100 %
   :align: center
   :alt: Fluxo simplificado de verificação de pagamento para boleto bancário.
