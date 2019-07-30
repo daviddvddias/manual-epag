@@ -16,4 +16,6 @@ Manual oficial:
 
 Deve-se usar o cabeçalho http **Authorization: Bearer <token_jwt>** em Base64 para passar as credenciais de autenticação nas chamadas das APIs.
 
+Deve-se usar o cabeçalho http **Content-Type: application/json** ao chamar os endpoints.
+
 Caso deseje você pode utilizar a página https://jwt.io/ para decodificar e codificar o token em Base64.
