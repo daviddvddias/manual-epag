@@ -12,7 +12,7 @@ Manual oficial:
 .. important::
    Os métodos das APIs necessitam autenticação para uso.
    A solicitação das credenciais de acesso para uso das APIs devem ser geradas no SISGRU
-   pelo próprio gestor do serviço. 
+   pelo próprio gestor do serviço. No sistema deve ser acessado o item **Meios de Pagamento**, opção **Autorização de uso do ePag.Gov**.
 
 Deve-se usar o cabeçalho http **Authorization: Bearer <token_jwt>** em Base64 para passar as credenciais de autenticação nas chamadas das APIs.
 
