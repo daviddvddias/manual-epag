@@ -42,8 +42,8 @@ Verificação de pagamento
    :alt: Fluxo simplificado de verificação de pagamento para cartão de débito.
 
 .. attention::
-   A verificação de pagamento através do cartão de débito pode ser informado via
-   callback ou ser pesquisado via **idPagamento**.
+   Não há, até a versão 1.1 do Manual, alguma API para verificar se o pagamento foi realizado.
+   É **necessário** uma **verificação humana manual** para tal.
 
 
 Fluxo do boleto bancário
