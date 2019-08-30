@@ -40,9 +40,9 @@ https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/pagamento/modal
 Para verificar se o pagamento foi realizado é necessário pesquisar tanto no SISGRU como no ePAG.
 
 **Como fazer:**
-Disponibilize um callback para o SISGRU para utilizar o cartão de débito e verifique no SISGRU utilizando o webservice específico do SISGRU.
+Disponibilize um callback para o SISGRU para utilizar o débito online e verifique no SISGRU utilizando o webservice específico do SISGRU.
 Acesse o `manual do Webservice do SISGRU`_ para verificar como utilizar.
-O idPagamento retornado pelo ePag não pode ser utilizado no Webservice do SISGRU para verificação do status do pagamento do boleto. 
+O idPagamento retornado pelo ePag não pode ser utilizado no Webservice do SISGRU para verificação do status do pagamento do boleto.
 
 .. important::
    O método de segurança do ePAG é diferente do método de segurança do SISGRU.
