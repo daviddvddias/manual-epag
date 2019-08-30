@@ -18,7 +18,7 @@ Formas de uso
     Os meios de débito online e boleto estão prontos na primeira versão do sistema e será desenvolvido em versão futura o cartão de crédito.
 
 .. image:: _imagens/fluxo_geral.png
-   :scale: 100 %
+   :scale: 50 %
    :align: center
    :alt: Fluxo geral do pagamento.
 
