@@ -62,18 +62,6 @@ Solicitação de pagamento
    O ePAG só solicita a criação do boleto bancário. O **idPagamento** não é associado ao pagamento do boleto.
    É necessário pesquisar no SISGRU se o pagamento de fato ocorreu.
 
-Verificação de pagamento
-------------------------
-
-.. image:: _imagens/fluxo_verificacao_boleto.png
-  :scale: 100 %
-  :align: center
-  :alt: Fluxo simplificado de verificação de pagamento para boleto bancário.
-
-.. danger::
-  O ePAG só solicita a criação do boleto bancário. O **idPagamento** não é associado ao pagamento do boleto.
-  É necessário pesquisar no SISGRU se o pagamento de fato ocorreu.
-
 
 Informar ao cidadão sobre o pagamento
 *************************************
