@@ -1,10 +1,10 @@
 ﻿Apresentação
 ============
 
-ePAG
+PagTesouro
 ****
 
-O ePAG é o serviço em construção do governo federal para diponibilizar meios de pagamentos de boleto, débito online e cartão de crédito para pagamentos.
+O PagTesouro é o serviço em construção do governo federal para diponibilizar meios de pagamentos de boleto, débito online e cartão de crédito para pagamentos.
 
 Formas de uso
 *************
@@ -16,6 +16,9 @@ Formas de uso
 
 .. important::
     Os meios de débito online e boleto estão prontos na primeira versão do sistema e será desenvolvido em versão futura o cartão de crédito.
+    
+Integração Ferramenta de Automação Federal e PagTesouro
+*************************
 
 .. image:: _imagens/fluxo_geral.png
    :scale: 50 %
