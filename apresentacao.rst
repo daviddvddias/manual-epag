@@ -17,13 +17,6 @@ Formas de uso
 .. important::
     Os meios de débito online e boleto estão prontos na primeira versão do sistema e será desenvolvido em versão futura o cartão de crédito.
     
-Integração Ferramenta de Automação Federal e PagTesouro
-*************************
-
-.. image:: _imagens/fluxo_geral.png
-   :scale: 50 %
-   :align: center
-   :alt: Fluxo geral do pagamento.
 
 
 Fluxo do débito online
@@ -86,6 +79,20 @@ Fluxo do cartão de crédito
 **************************
 
 Não há possibilidade de cartão de crédito nessa versão do ePAG.
+
+Exemplo de Integração 
+*************************
+
+Ferramenta de Automação Federal e PagTesouro
+------------------------
+
+.. image:: _imagens/fluxo_geral.png
+   :scale: 50 %
+   :align: center
+   :alt: Fluxo geral do pagamento.
+
+.. important::
+    A a solicitação de criação do pagamento é feita pelo backoffice da ferramenta de automação, então os parâmetros (token, valor, serviço e etc) devem estar configurados nesse backoffice.
 
 
 Informar ao cidadão sobre o pagamento
