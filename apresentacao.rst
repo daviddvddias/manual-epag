@@ -83,7 +83,7 @@ Não há possibilidade de cartão de crédito nessa versão do ePAG.
 Exemplo de Integração 
 *************************
 
-Ferramenta de Automação Federal e PagTesouro
+Ferramenta de Automação Federal (LECOM) e PagTesouro
 ------------------------
 
 .. image:: _imagens/fluxo_geral.png
