@@ -29,7 +29,7 @@ Solicitação de pagamento
 ------------------------
 
 .. image:: _imagens/fluxo_debito.png
-   :scale: 100 %
+   :scale: 75 %
    :align: center
    :alt: Fluxo simplificado da solicitação para débito online.
 
@@ -38,7 +38,7 @@ Verificação de pagamento
 ------------------------
 
 .. image:: _imagens/fluxo_verificacao_debito.png
-   :scale: 100 %
+   :scale: 75 %
    :align: center
    :alt: Fluxo simplificado de verificação de pagamento para débito online.
 
