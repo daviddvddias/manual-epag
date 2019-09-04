@@ -4,7 +4,7 @@
 PagTesouro
 ****
 
-O PagTesouro é o serviço em construção do governo federal para diponibilizar meios de pagamentos de boleto, débito online e cartão de crédito para pagamentos. Essa documentação é baseada na versão 1.4 do PagTesouro, para mais informações acesse: https://v-epag.estaleiro.serpro.gov.br/simulador
+O PagTesouro é o serviço em construção do governo federal para diponibilizar meios de pagamentos de boleto, débito online e cartão de crédito para pagamentos. Essa documentação é baseada na versão 1.4 da documentação do PagTesouro (https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/api)
 
 Formas de uso
 *************
@@ -72,7 +72,7 @@ sobre a situação do pagamento.
 Fluxo do cartão de crédito
 **************************
 
-Não há possibilidade de cartão de crédito nessa versão do ePAG.
+Não há possibilidade de cartão de crédito nessa versão do PagTesouro.
 
 Exemplo de Integração 
 *************************
@@ -88,8 +88,9 @@ Ferramenta de Automação Federal (LECOM) e PagTesouro - DÉBITO ONLINE
 O processo de verificação do status do pagamento acontece de duas formas: por tempo ou por evento. 
 
 .. important::
-    A a solicitação de criação do pagamento é feita pelo backoffice da ferramenta de automação, então os parâmetros (token, valor, serviço e etc) devem estar configurados nesse backoffice.
-    
+    A solicitação de criação do pagamento é feita pelo backoffice da ferramenta de automação, então os parâmetros (token, valor, serviço e etc) devem estar configurados nesse backoffice.
+
+
 Ferramenta de Automação Federal (LECOM) e PagTesouro - BOLETO
 ------------------------
 
@@ -98,3 +99,7 @@ Ferramenta de Automação Federal (LECOM) e PagTesouro - BOLETO
    :align: center
    :alt: Fluxo geral do pagamento.
 
+O processo de verificação do status do pagamento do boleto é feito a parte pelo órgão.
+
+.. important::
+    A solicitação de criação do pagamento é feita pelo backoffice da ferramenta de automação, então os parâmetros (token, valor, serviço e etc) devem estar configurados nesse backoffice.
