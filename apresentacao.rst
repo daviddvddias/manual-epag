@@ -42,6 +42,7 @@ Verificação de pagamento
    :align: center
    :alt: Fluxo simplificado de verificação de pagamento para débito online.
    
+O processo de verificação do status do pagamento inicia ou por tempo ou por evento específico.
 
 Fluxo do boleto bancário
 ************************
