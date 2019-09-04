@@ -93,4 +93,8 @@ O processo de verificação do status do pagamento acontece de duas formas: por 
 Ferramenta de Automação Federal (LECOM) e PagTesouro - BOLETO
 ------------------------
 
+.. image:: _imagens/fluxo_geral_boleto.png
+   :scale: 50 %
+   :align: center
+   :alt: Fluxo geral do pagamento.
 
