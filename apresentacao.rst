@@ -33,6 +33,8 @@ Solicitação de pagamento
    :align: center
    :alt: Fluxo simplificado da solicitação para débito online.
 
+.. attention::
+   O atrinuto proxima_url expira em 60 minutos e não pode ser utilizado nos status (CONCLUIDO, REJEITADO, CANCELADO).
 
 Verificação de pagamento
 ------------------------
@@ -42,7 +44,7 @@ Verificação de pagamento
    :align: center
    :alt: Fluxo simplificado de verificação de pagamento para débito online.
    
-O processo de verificação do status do pagamento inicia ou por tempo ou por evento específico.
+O processo de verificação do status do pagamento inicia ou por tempo ou por evento.
 
 Fluxo do boleto bancário
 ************************
@@ -58,6 +60,9 @@ Solicitação de pagamento
 .. attention::
    O PagTesouro só solicita a criação do boleto bancário. O **idPagamento** não é associado ao pagamento do boleto.
    É necessário o órgão verificar o pagamento.
+   
+.. attention::
+   O atrinuto proxima_url expira em 60 minutos e não pode ser utilizado nos status (CONCLUIDO, REJEITADO, CANCELADO).
 
 
 Informar ao cidadão sobre o pagamento
