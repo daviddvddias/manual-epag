@@ -11,8 +11,11 @@ Um requisito para integrar é ter seu serviço cadastrado na SISGRU.
 **Como fazer:**
 Solicite para o representante do órgão no SISGRU.....
 
+É necessário cadastrar cada serviço na Aba `Pagtesouro` do SISGRU. 
+
 .. note::
-   É necessário ter as credenciais no SISGRU. Caso não possua `siga o procedimento para obter as credenciais`_.
+   É necessário ter as credenciais no SISGRU. Caso não possua é necessário que formalizem por email para os coordenadores da STN/COFIN a solicitação de entrada no projeto Piloto do PagTesouro que faz integração com o Banco do Brasil para a modalidade de débito em conta.
+   Os email são: fabiano.pereira AT tesouro.gov.br e roberta.pereira AT tesouro.gov.br
 
 
 2. Chame a  API com os dados cadastrados

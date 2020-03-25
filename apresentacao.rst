@@ -2,9 +2,10 @@
 ============
 
 PagTesouro
-****
+**********
 
-O PagTesouro é o serviço em construção do governo federal para diponibilizar meios de pagamentos de boleto, débito online e cartão de crédito para pagamentos. Essa documentação é baseada na versão 1.4 da documentação do PagTesouro (https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/api)
+O PagTesouro é o serviço em construção do governo federal para diponibilizar 
+meios de pagamentos de boleto, débito online e cartão de crédito para pagamentos. Essa documentação é baseada na versão 1.7 da documentação do PagTesouro (https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/api)
 
 Formas de uso
 *************
@@ -15,15 +16,17 @@ Formas de uso
 * Boleto bancário
 
 .. important::
-    Os meios de débito online e boleto estão prontos na primeira versão do sistema e será desenvolvido em versão futura o cartão de crédito.
-    
+    Os meios de débito online e boleto estão prontos na **primeira versão** do sistema e será desenvolvido em versão futura o cartão de crédito, débito e pagamento instantâneo.
 
 
-Fluxo do débito online
-*************************
+
+Fluxo do débito online do Banco do Brasil
+*****************************************
 
 É necessário que o sistema cliente solicite o pagamento e que verifique se o pagamento foi de fato realizado.
 
+.. important::
+    Outras instituições financeiras devem estar habilitadas a partir de setembro - outubro de 2020.
 
 Solicitação de pagamento
 ------------------------
@@ -64,21 +67,20 @@ Solicitação de pagamento
 .. attention::
    O atrinuto proxima_url expira em 60 minutos e não pode ser utilizado nos status (CONCLUIDO, REJEITADO, CANCELADO).
 
-
-Informar ao cidadão sobre o pagamento
-*************************************
-
-Pode informar por e-mail ou por SMS.
-
-Caso seja desejado pode-se entrar em contato com o Ministério da Economia para
-utilizar a plataforma de SMS para envio de mensagem ao cidadão e informá-lo
-sobre a situação do pagamento.
-
-
 Fluxo do cartão de crédito
 **************************
 
 Não há possibilidade de cartão de crédito nessa versão do PagTesouro.
+
+Fluxo do cartão de débito
+*************************
+
+Não há possibilidade de cartão de débito nessa versão do PagTesouro.
+
+Fluxo de pagamento instantâneo
+******************************
+
+Não há possibilidade de pagamento insntantâneo nessa versão do PagTesouro.
 
 Exemplo de Integração 
 *************************
@@ -109,3 +111,13 @@ O processo de verificação do status do pagamento do boleto é feito a parte pe
 
 .. important::
     A solicitação de criação do pagamento é feita pelo backoffice da ferramenta de automação, então os parâmetros (token, valor, serviço e etc) devem estar configurados nesse backoffice.
+
+
+Informar ao cidadão sobre o pagamento
+*************************************
+
+Pode informar por e-mail ou por SMS.
+
+Caso seja desejado pode-se entrar em contato com o Ministério da Economia para
+utilizar a plataforma de SMS para envio de mensagem ao cidadão e informá-lo
+sobre a situação do pagamento.
