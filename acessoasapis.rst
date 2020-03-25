@@ -21,11 +21,8 @@ Deve-se usar o cabeçalho http **Content-Type: application/json** ao chamar os e
 
 Caso deseje você pode utilizar a página https://jwt.io/ para decodificar e codificar o token em Base64.
 
-Valores a preencher
-###################
-
 Solicitação de pagamento
-------------------------
+########################
 
 O método Solicitação de Pagamento éum serviço que permite que sejam 
 solicitado um pagamento. Esse método não realiza o pagamento mas solicita uma URL para que o cidadão escolha o método de pagamento.
@@ -102,5 +99,35 @@ modoNavegacao
 urlRetorno
    URL do sistema cliente para onde o usuário irá retornar ao selecionar a opção Concluir na tela de confirmação de pagamento do PagTesouro (necessário quando "modoNavegacao": "1"). 
 
-Por favor verificar o manual em https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/api para outras considerações.
+.. attention::
+    Por favor verificar o manual em https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/api para outras considerações.
 
+
+Parâmetro de saída
+++++++++++++++++++
+
+.. code-block:: json
+
+   {
+     "idPagamento": "4pFwrmd6QLdktVyuvjAki9",
+     "dataCriacao": "2019-11-06T10:20:00Z",
+     "proximaUrl": "https://v-epag.estaleiro.serpro.gov.br/#/pagamento?idSessao=66706694-fce3-4a56-8172-8b4ed12508a4",
+     "situacao": {
+       "codigo": "CRIADO"
+     }
+   }
+
+idPagamento
+   ID para verificar status do pagamento pelo sistema cliente.
+
+dataCriacao
+   Data de criação da solicitação de pagamento
+ 
+proximaUrl
+   URL para ser exibida para o cidadão.
+
+situacao
+   Situação atual da solicitação do pagamento.
+
+.. attention::
+    Por favor verificar o manual em https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/api para outras considerações.
