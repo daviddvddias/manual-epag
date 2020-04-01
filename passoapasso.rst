@@ -13,9 +13,17 @@ Solicite para o representante do órgão no SISGRU.....
 
 É necessário cadastrar cada serviço na Aba `Pagtesouro` do SISGRU. 
 
+.. figure:: _imagens/imagem_sisgru_servico.png
+   :scale: 55 %
+   :align: center
+   
+   Tela no SISGRU para cadastro de serviços
+   
+
 .. note::
    É necessário ter as credenciais no SISGRU. Caso não possua é necessário que formalizem por email para os coordenadores da STN/COFIN a solicitação de entrada no projeto Piloto do PagTesouro que faz integração com o Banco do Brasil para a modalidade de débito em conta.
    Os email são: fabiano.pereira AT tesouro.gov.br e roberta.pereira AT tesouro.gov.br
+
 
 
 2. Chame a  API com os dados cadastrados
