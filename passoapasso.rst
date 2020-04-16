@@ -29,6 +29,7 @@ Solicite para o representante do órgão no SISGRU.....
 2. Chame a  API com os dados cadastrados
 ----------------------------------------
 Seu sistema precisa utilizar os dados cadastrados no passo anterior durante a chamada a API.
+Cada Beared Token é único por UG e deve ser solicitado a STN.
 
 .. important::
    Esse código é específico para cada serviço. Não utilize códigos de outros serviços.
