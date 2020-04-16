@@ -23,7 +23,7 @@ Solicite para o representante do órgão no SISGRU.....
 .. note::
    É necessário ter as credenciais no SISGRU. Caso não possua é necessário que formalizem por email para os coordenadores da STN/COFIN a solicitação de entrada no projeto Piloto do PagTesouro que faz integração com o Banco do Brasil para a modalidade de débito em conta.
    Os email são: fabiano.pereira AT tesouro.gov.br e roberta.pereira AT tesouro.gov.br
-
+   **Cada token é único por UG.**
 
 
 2. Chame a  API com os dados cadastrados
