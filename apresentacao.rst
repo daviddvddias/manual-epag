@@ -17,8 +17,11 @@ Formas de uso
 * Débito online
 * Boleto bancário
 
+O boleto bancário é somente para a GRU SIMPLES. Não há possibilidade de GRU Cobrança.
+
 .. important::
     Os meios de débito online e boleto estão prontos na **primeira versão** do sistema e será desenvolvido em versão futura o cartão de crédito, débito e pagamento instantâneo.
+
 
 
 
