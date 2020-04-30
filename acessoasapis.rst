@@ -13,7 +13,14 @@ Manual oficial:
 .. important::
    Os métodos das APIs necessitam autenticação para uso.
    A solicitação das credenciais de acesso para uso das APIs devem ser geradas no SISGRU
-   pelo próprio gestor do serviço. No sistema deve ser acessado o item **Meios de Pagamento**, opção **Autorização de uso do ePag.Gov**.
+   pelo próprio gestor do serviço. No sistema deve ser acessado o item **PagTesouro**, opção **Autorização de uso do PagTesouro**.
+
+.. attention::
+   O SISGRU homologação está já disponível na internet e pode ser acessado pelos usuários dos órgãos.
+   endereço: https://homsisgru.tesouro.gov.br
+   Porém, precisa que seja gerada uma senha de acesso e pra isso, é preciso da UG e CPF do usuário, e tem que ser um usuário que já usa o SIAFI, pois deve estar cadastrado na Rede Serpro.
+   Mande email para a marciana.leal AT tesouro.gov.br com os dados da UG e CPF.
+
 
 Deve-se usar o cabeçalho http **Authorization: Bearer <token_jwt>** em Base64 para passar as credenciais de autenticação nas chamadas das APIs.
 
