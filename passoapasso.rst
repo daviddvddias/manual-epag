@@ -19,6 +19,10 @@ Solicite para o representante do órgão no SISGRU.....
    Porém, precisa que seja gerada uma senha de acesso e pra isso, é preciso da UG e CPF do usuário, e tem que ser um usuário que já usa o SIAFI, pois deve estar cadastrado na Rede Serpro.
    Mande email para a marciana.leal AT tesouro.gov.br com os dados da UG e CPF.
 
+.. attention::
+   Para acessar o SISGRU em **produção** é encessário enviar um email para marciana.leal AT tesouro.gov.br para habilitar o menu do PagTesouro por órgão.
+   Não é possível acessar o menu do PagTesouro antes da liberação pelo Tesouro/SERPRO.
+
 .. figure:: _imagens/imagem_sisgru_servico.png
    :scale: 55 %
    :align: center
