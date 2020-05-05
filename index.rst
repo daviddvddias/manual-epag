@@ -13,6 +13,7 @@ Manual de uso da API do ePAG
    apresentacao
    passoapasso
    acessoasapis
+   videos
 
 
 Índices

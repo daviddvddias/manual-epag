@@ -11,7 +11,11 @@ Um requisito para integrar é ter seu serviço cadastrado na SISGRU.
 **Como fazer:**
 Solicite para o representante do órgão no SISGRU.....
 
-É necessário cadastrar cada serviço na Aba `Pagtesouro` do SISGRU. 
+É necessário cadastrar cada serviço na Aba `Pagtesouro` do SISGRU. veja o vídeo abaixo para exemplo. 
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/cpDMQsMiFTw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. attention::
    O SISGRU homologação está já disponível na internet e pode ser acessado pelos usuários dos órgãos.
