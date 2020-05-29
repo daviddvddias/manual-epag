@@ -20,6 +20,7 @@ Solicite para o representante do órgão no SISGRU.....
 .. attention::
    O SISGRU homologação está já disponível na internet e pode ser acessado pelos usuários dos órgãos.
    endereço: https://homsisgru.tesouro.gov.br
+   Para a homologação basta duas pessoas. Em produção pode-se criar quantos usuários forem necessários.
    Porém, precisa que seja gerada uma senha de acesso e pra isso, é preciso da UG e CPF do usuário, e tem que ser um usuário que já usa o SIAFI, pois deve estar cadastrado na Rede Serpro.
    Mande email para a marciana.leal AT tesouro.gov.br com os dados da UG e CPF.
 
