@@ -22,7 +22,9 @@ O boleto bancário é somente para a GRU SIMPLES. Não há possibilidade de GRU 
 .. important::
     Os meios de débito online e boleto estão prontos na **primeira versão** do sistema e será desenvolvido em versão futura o cartão de crédito, débito e pagamento instantâneo.
 
+Há uma expectativa de ter novas formas de uso com o chamamento das instituições financeiras. https://sisweb.tesouro.gov.br/apex/f?p=2501:9::::9:P9_ID_PUBLICACAO_ANEXO:8029
 
+Pode haver cobrança de taxa pelas instituições financeiras. Essa taxa será pago pelo cidadão conforme item 5.1 do edital do chamamento.
 
 
 Fluxo do débito online do Banco do Brasil
