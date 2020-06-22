@@ -18,6 +18,7 @@ Formas de uso
 * Boleto bancário
 
 O boleto bancário é somente para a GRU SIMPLES. Não há possibilidade de GRU Cobrança.
+Não consta no boleto a data limite de pagamento. Pode haver pagamento após a data final de pagamento.
 
 .. important::
     Os meios de débito online e boleto estão prontos na **primeira versão** do sistema e será desenvolvido em versão futura o cartão de crédito, débito e pagamento instantâneo.
