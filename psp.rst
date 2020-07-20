@@ -11,5 +11,5 @@ Manual oficial:
 - https://pagtesouro.tesouro.gov.br/docs/ 
 
 .. important::
-   As PSPs precisam ser credenciadas conforme documentação oficial constante em: http://tesouro.gov.br/pt/credenciamento
+   As PSPs precisam ser credenciadas conforme documentação oficial constante em: https://www.gov.br/tesouronacional/pt-br/acesso-a-informacao/licitacoes-e-contratos/credenciamentos
 
