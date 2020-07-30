@@ -9,7 +9,7 @@ Para integrar um serviço público com a plataforma ePAG é necessário executar
 Um requisito para integrar é ter seu serviço cadastrado na SISGRU.
 
 **Como fazer:**
-Solicite para o representante do órgão no SISGRU.....
+Solicite para o representante do órgão no Rede SERPRO sua senha caso você não tenha. Após isso solicite a STN acesso ao SISGRU.
 
 É necessário cadastrar cada serviço na Aba `Pagtesouro` do SISGRU. veja o vídeo abaixo para exemplo. 
 
@@ -67,7 +67,9 @@ https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/pagamento/modal
 4. Verifique se o pagamento foi realizado
 -----------------------------------------
 
-Para verificar se o pagamento foi realizado é necessário pesquisar tanto no SISGRU como no ePAG.
+Para verificar se o pagamento foi realizado é necessário pesquisar tanto no SISGRU e no PagTesouro.
+
+Na versão 2.0 será incluído uma chamada de callback para o PagTesouro. A previsão de entrada da versão 2.0 para homologação é em 24/08/2020.
 
 **Como fazer:**
 Disponibilize um callback para o SISGRU para utilizar o débito online e verifique no SISGRU utilizando o webservice específico do SISGRU.
