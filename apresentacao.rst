@@ -27,6 +27,8 @@ Há uma expectativa de ter novas formas de uso com o chamamento das instituiçõ
 
 Pode haver cobrança de taxa pelas instituições financeiras. Essa taxa será pago pelo cidadão conforme item 5.1 do edital do chamamento.
 
+O Banco Central divulgou o PIX em uma coletiva de imprensa.
+https://www.youtube.com/watch?v=Fqr2eGhdqx8
 
 Fluxo do débito online do Banco do Brasil
 *****************************************
