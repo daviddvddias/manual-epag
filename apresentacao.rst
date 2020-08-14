@@ -7,6 +7,9 @@ PagTesouro
 O PagTesouro é o serviço em construção do governo federal para diponibilizar 
 meios de pagamentos de boleto, débito online e cartão de crédito para pagamentos. Essa documentação é baseada na versão 1.7 da documentação do PagTesouro (https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/api)
 
+.. important::
+    A STN ainda não informou se será necessário um credenciamento por partes dos *órgãos públicos*. O que há no momento é o credenciamento de Prestadores de Serviços de Pagamento.
+
 Não há limitação nem de valor de pagamento e nem de quantidade de solicitações de pagamento ao utilizar o PagTesouro.
 
 Formas de uso
