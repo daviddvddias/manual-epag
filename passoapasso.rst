@@ -82,5 +82,5 @@ O idPagamento retornado pelo ePag não pode ser utilizado no Webservice do SISGR
    dois ambientes é necessário ter a permissão tanto no ePAG como no SISGRU.
 
 
-.. _`manual do Webservice do SISGRU`: https://www.tesouro.fazenda.gov.br/sisgru
+.. _`manual do Webservice do SISGRU`: https://www.gov.br/tesouronacional/pt-br/gru-e-pag-tesouro/sisgru
 .. _`siga o procedimento para obter as credenciais`: https://www.example.com
