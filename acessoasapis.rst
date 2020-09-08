@@ -8,7 +8,7 @@ Swagger ePAG:
 - Sem link ainda.
 
 Manual oficial:
-- https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/api
+- https://valpagtesouro.tesouro.gov.br/simulador/#/pages/api
 
 .. important::
    Os métodos das APIs necessitam autenticação para uso.
@@ -107,7 +107,7 @@ urlRetorno
    URL do sistema cliente para onde o usuário irá retornar ao selecionar a opção Concluir na tela de confirmação de pagamento do PagTesouro (necessário quando "modoNavegacao": "1"). 
 
 .. attention::
-    Por favor verificar o manual em https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/api para outras considerações.
+    Por favor verificar o manual em https://valpagtesouro.tesouro.gov.br/simulador/#/pages/api para outras considerações.
 
 
 Parâmetro de saída
@@ -118,7 +118,7 @@ Parâmetro de saída
    {
      "idPagamento": "4pFwrmd6QLdktVyuvjAki9",
      "dataCriacao": "2019-11-06T10:20:00Z",
-     "proximaUrl": "https://v-epag.estaleiro.serpro.gov.br/#/pagamento?idSessao=66706694-fce3-4a56-8172-8b4ed12508a4",
+     "proximaUrl": "https://valpagtesouro.tesouro.gov.br/#/pagamento?idSessao=66706694-fce3-4a56-8172-8b4ed12508a4",
      "situacao": {
        "codigo": "CRIADO"
      }
@@ -137,4 +137,4 @@ situacao
    Situação atual da solicitação do pagamento.
 
 .. attention::
-    Por favor verificar o manual em https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/api para outras considerações.
+    Por favor verificar o manual em https://valpagtesouro.tesouro.gov.br/simulador/#/pages/api para outras considerações.

@@ -58,7 +58,7 @@ Cada Beared Token é único por UG e deve ser solicitado a STN.
 --------------------------------
 
 Veja exemplo em:
-https://v-epag.estaleiro.serpro.gov.br/simulador/#/pages/pagamento/modal
+https://valpagtesouro.tesouro.gov.br/simulador/#/pages/pagamento/modal
 
 .. note::
   Adicionar HTML funcional e remover link acima.
