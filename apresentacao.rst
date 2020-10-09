@@ -4,7 +4,7 @@
 PagTesouro
 **********
 
-O PagTesouro é o serviço em construção do governo federal para diponibilizar 
+O PagTesouro é o serviço em construção do governo federal para disponibilizar 
 meios de pagamentos de boleto, débito online e cartão de crédito para pagamentos. Essa documentação é baseada na versão 1.7 da documentação do PagTesouro (https://valpagtesouro.tesouro.gov.br/simulador/#/pages/api)
 
 .. important::
@@ -50,7 +50,7 @@ Solicitação de pagamento
    :alt: Fluxo simplificado da solicitação para débito online.
 
 .. attention::
-   O atrinuto proxima_url expira em 60 minutos e não pode ser utilizado nos status (CONCLUIDO, REJEITADO, CANCELADO).
+   O atributo proxima_url expira em 60 minutos e não pode ser utilizado nos status (CONCLUIDO, REJEITADO, CANCELADO).
 
 Verificação de pagamento
 ------------------------
@@ -78,7 +78,7 @@ Solicitação de pagamento
    É necessário o órgão verificar o pagamento.
    
 .. attention::
-   O atrinuto proxima_url expira em 60 minutos e não pode ser utilizado nos status (CONCLUIDO, REJEITADO, CANCELADO).
+   O atributo proxima_url expira em 60 minutos e não pode ser utilizado nos status (CONCLUIDO, REJEITADO, CANCELADO).
 
 Fluxo do cartão de crédito
 **************************
@@ -93,7 +93,7 @@ Não há possibilidade de cartão de débito nessa versão do PagTesouro.
 Fluxo de pagamento instantâneo
 ******************************
 
-Não há possibilidade de pagamento insntantâneo nessa versão do PagTesouro.
+Não há possibilidade de pagamento instantâneo nessa versão do PagTesouro.
 
 Exemplo de Integração 
 *************************

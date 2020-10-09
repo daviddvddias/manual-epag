@@ -19,7 +19,7 @@ Manual oficial:
    O SISGRU homologação está já disponível na internet e pode ser acessado pelos usuários dos órgãos.
    endereço: https://homsisgru.tesouro.gov.br
    Porém, precisa que seja gerada uma senha de acesso e pra isso, é preciso da UG e CPF do usuário, e tem que ser um usuário que já usa o SIAFI, pois deve estar cadastrado na Rede Serpro.
-   Mande email para a marciana.leal AT tesouro.gov.br com os dados da UG e CPF.
+   Mande e-mail para a marciana.leal AT tesouro.gov.br com os dados da UG e CPF.
 
 
 Deve-se usar o cabeçalho http **Authorization: Bearer <token_jwt>** em Base64 para passar as credenciais de autenticação nas chamadas das APIs.
@@ -31,7 +31,7 @@ Caso deseje você pode utilizar a página https://jwt.io/ para decodificar e cod
 Solicitação de pagamento
 ########################
 
-O método Solicitação de Pagamento éum serviço que permite que sejam 
+O método Solicitação de Pagamento é um serviço que permite que sejam 
 solicitado um pagamento. Esse método não realiza o pagamento mas solicita uma URL para que o cidadão escolha o método de pagamento.
 
 .. note::
