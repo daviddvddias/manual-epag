@@ -125,6 +125,16 @@ O processo de verificação do status do pagamento do boleto é feito a parte pe
 .. important::
     A solicitação de criação do pagamento é feita pelo backoffice da ferramenta de automação, então os parâmetros (token, valor, serviço e etc) devem estar configurados nesse backoffice.
 
+Estorno dos pagamentos
+**********************
+
+Se o contribuinte entender que o pagamento não deveria ter sido feito, 
+deverá proceder como hoje na arrecadação de GRU via boleto, ou seja, 
+pleitear a restituição junto ao órgão arrecadador e, caso o órgão entenda 
+que deve ser feita, a restituição será feita também como hoje por meio de 
+geração de OB em favor do contribuinte. Esta orientação consta na Instrução 
+Normativa STN nº 02, de 22/05/2009 que regula o processo de arrecadação de GRU.
+
 
 Informar ao cidadão sobre o pagamento
 *************************************
