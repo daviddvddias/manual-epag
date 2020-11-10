@@ -4,7 +4,7 @@ Prestadores de Serviço de Pagamento
 As operações disponíveis estão descritas nos seguintes endereços abaixo:
 ########################################################################
 
-Swagger Pagtesouro - PSPs:
+Swagger PagTesouro - PSPs:
 - https://pagtesouro.tesouro.gov.br/docs/api-psp/
 
 Manual oficial:
